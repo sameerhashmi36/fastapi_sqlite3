@@ -2,7 +2,7 @@
 
 Register, Login, Logout using fastAPI and SQLAlchemy
 
-Link for Sqlite3 Browser : https://sqlitebrowser.org/dl/
+Link for Sqlite3 DB Browser(To see the database in realtime): https://sqlitebrowser.org/dl/
 
 # How to run
 
